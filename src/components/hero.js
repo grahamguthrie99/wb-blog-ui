@@ -7,7 +7,7 @@ const HeroContainer = styled.div`
   align-items: center; 
   flex-wrap: nowrap;
   margin-top:24px;
-
+  width: 500px; 
   @media (max-width: 768px) {
     flex-direction: column;
   }
